@@ -1,0 +1,189 @@
+{
+  "id" : 110264,
+  "handle" : "amanc2610",
+  "countHistoryTasks" : 26,
+  "historyTasks" : null,
+  "taskResult" : [ {
+    "id" : 30160166,
+    "postingDate" : "2020-12-23",
+    "registrationDate" : "2020-12-24",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30155547,
+    "postingDate" : "2020-12-02",
+    "registrationDate" : "2020-12-05",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30153965,
+    "postingDate" : "2020-11-28",
+    "registrationDate" : "2020-11-28",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30153951,
+    "postingDate" : "2020-11-26",
+    "registrationDate" : "2020-11-28",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30136392,
+    "postingDate" : "2020-08-07",
+    "registrationDate" : "2020-08-08",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30134623,
+    "postingDate" : "2020-07-29",
+    "registrationDate" : "2020-07-29",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30134286,
+    "postingDate" : "2020-07-25",
+    "registrationDate" : "2020-07-26",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30133398,
+    "postingDate" : "2020-07-18",
+    "registrationDate" : "2020-07-19",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30132988,
+    "postingDate" : "2020-07-14",
+    "registrationDate" : "2020-07-16",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30133162,
+    "postingDate" : "2020-07-16",
+    "registrationDate" : "2020-07-16",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30132628,
+    "postingDate" : "2020-07-12",
+    "registrationDate" : "2020-07-12",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30132640,
+    "postingDate" : "2020-07-11",
+    "registrationDate" : "2020-07-11",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30132164,
+    "postingDate" : "2020-07-07",
+    "registrationDate" : "2020-07-07",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30132028,
+    "postingDate" : "2020-07-03",
+    "registrationDate" : "2020-07-06",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30131977,
+    "postingDate" : "2020-07-02",
+    "registrationDate" : "2020-07-02",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30119452,
+    "postingDate" : "2020-03-16",
+    "registrationDate" : "2020-03-16",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30119357,
+    "postingDate" : "2020-03-13",
+    "registrationDate" : "2020-03-15",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30117945,
+    "postingDate" : "2020-03-02",
+    "registrationDate" : "2020-03-03",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30112574,
+    "postingDate" : "2020-01-09",
+    "registrationDate" : "2020-01-09",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30105171,
+    "postingDate" : "2019-11-22",
+    "registrationDate" : "2019-11-23",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30100163,
+    "postingDate" : "2019-08-23",
+    "registrationDate" : "2019-08-24",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30099138,
+    "postingDate" : "2019-08-13",
+    "registrationDate" : "2019-08-14",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30098526,
+    "postingDate" : "2019-08-07",
+    "registrationDate" : "2019-08-07",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30096399,
+    "postingDate" : "2019-07-19",
+    "registrationDate" : "2019-07-20",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30090213,
+    "postingDate" : "2019-05-06",
+    "registrationDate" : "2019-05-07",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30088452,
+    "postingDate" : "2019-04-11",
+    "registrationDate" : "2019-04-11",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  } ]
+}

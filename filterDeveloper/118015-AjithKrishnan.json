@@ -1,0 +1,161 @@
+{
+  "id" : 118015,
+  "handle" : "AjithKrishnan",
+  "countHistoryTasks" : 22,
+  "historyTasks" : null,
+  "taskResult" : [ {
+    "id" : 30158371,
+    "postingDate" : "2020-12-17",
+    "registrationDate" : "2021-01-04",
+    "submissionDate" : "2021-01-10",
+    "placement" : 33,
+    "score" : 10.0
+  }, {
+    "id" : 30159118,
+    "postingDate" : "2020-12-18",
+    "registrationDate" : "2020-12-18",
+    "submissionDate" : "2020-12-20",
+    "placement" : 1,
+    "score" : 100.0
+  }, {
+    "id" : 30158047,
+    "postingDate" : "2020-12-15",
+    "registrationDate" : "2020-12-15",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30157330,
+    "postingDate" : "2020-12-10",
+    "registrationDate" : "2020-12-11",
+    "submissionDate" : "2020-12-12",
+    "placement" : 7,
+    "score" : 50.0
+  }, {
+    "id" : 30144399,
+    "postingDate" : "2020-10-02",
+    "registrationDate" : "2020-10-03",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30144397,
+    "postingDate" : "2020-10-02",
+    "registrationDate" : "2020-10-03",
+    "submissionDate" : "2020-10-03",
+    "placement" : 11,
+    "score" : 20.0
+  }, {
+    "id" : 30142130,
+    "postingDate" : "2020-09-16",
+    "registrationDate" : "2020-09-17",
+    "submissionDate" : "2020-09-17",
+    "placement" : 31,
+    "score" : 10.0
+  }, {
+    "id" : 30142087,
+    "postingDate" : "2020-09-20",
+    "registrationDate" : "2020-09-20",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30139805,
+    "postingDate" : "2020-09-07",
+    "registrationDate" : "2020-09-07",
+    "submissionDate" : "2020-09-09",
+    "placement" : 3,
+    "score" : 80.0
+  }, {
+    "id" : 30140247,
+    "postingDate" : "2020-09-02",
+    "registrationDate" : "2020-09-02",
+    "submissionDate" : "2020-09-03",
+    "placement" : 5,
+    "score" : 70.0
+  }, {
+    "id" : 30138736,
+    "postingDate" : "2020-08-26",
+    "registrationDate" : "2020-08-27",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30137014,
+    "postingDate" : "2020-08-14",
+    "registrationDate" : "2020-08-15",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30136445,
+    "postingDate" : "2020-08-08",
+    "registrationDate" : "2020-08-08",
+    "submissionDate" : "2020-08-10",
+    "placement" : -1,
+    "score" : -1.0
+  }, {
+    "id" : 30136939,
+    "postingDate" : "2020-08-13",
+    "registrationDate" : "2020-08-13",
+    "submissionDate" : "2020-08-14",
+    "placement" : 10,
+    "score" : 80.0
+  }, {
+    "id" : 30136288,
+    "postingDate" : "2020-08-07",
+    "registrationDate" : "2020-08-07",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30135731,
+    "postingDate" : "2020-08-03",
+    "registrationDate" : "2020-08-04",
+    "submissionDate" : "2020-08-05",
+    "placement" : 12,
+    "score" : 60.0
+  }, {
+    "id" : 30135642,
+    "postingDate" : "2020-08-03",
+    "registrationDate" : "2020-08-03",
+    "submissionDate" : "2020-08-04",
+    "placement" : 6,
+    "score" : 80.0
+  }, {
+    "id" : 30134621,
+    "postingDate" : "2020-07-29",
+    "registrationDate" : "2020-07-29",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30132642,
+    "postingDate" : "2020-07-11",
+    "registrationDate" : "2020-07-12",
+    "submissionDate" : "2020-07-13",
+    "placement" : 20,
+    "score" : 10.0
+  }, {
+    "id" : 30123593,
+    "postingDate" : "2020-05-12",
+    "registrationDate" : "2020-05-13",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30125701,
+    "postingDate" : "2020-05-16",
+    "registrationDate" : "2020-05-17",
+    "submissionDate" : "2020-05-20",
+    "placement" : 24,
+    "score" : 20.0
+  }, {
+    "id" : 30124096,
+    "postingDate" : "2020-05-04",
+    "registrationDate" : "2020-05-04",
+    "submissionDate" : "2020-05-05",
+    "placement" : 5,
+    "score" : 100.0
+  } ]
+}

@@ -1,0 +1,147 @@
+{
+  "id" : 98269,
+  "handle" : "sparsh13",
+  "countHistoryTasks" : 20,
+  "historyTasks" : null,
+  "taskResult" : [ {
+    "id" : 30125571,
+    "postingDate" : "2020-05-15",
+    "registrationDate" : "2020-05-15",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30096466,
+    "postingDate" : "2019-07-22",
+    "registrationDate" : "2019-07-23",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30091322,
+    "postingDate" : "2019-05-22",
+    "registrationDate" : "2019-05-24",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30091595,
+    "postingDate" : "2019-05-23",
+    "registrationDate" : "2019-05-24",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30090819,
+    "postingDate" : "2019-05-15",
+    "registrationDate" : "2019-05-15",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30081357,
+    "postingDate" : "2019-01-29",
+    "registrationDate" : "2019-01-29",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30081618,
+    "postingDate" : "2019-01-29",
+    "registrationDate" : "2019-02-01",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30079467,
+    "postingDate" : "2019-01-17",
+    "registrationDate" : "2019-01-23",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30077687,
+    "postingDate" : "2018-12-24",
+    "registrationDate" : "2018-12-24",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30077357,
+    "postingDate" : "2018-12-18",
+    "registrationDate" : "2018-12-21",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30077399,
+    "postingDate" : "2018-12-21",
+    "registrationDate" : "2018-12-21",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30075545,
+    "postingDate" : "2018-11-30",
+    "registrationDate" : "2018-12-01",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30072516,
+    "postingDate" : "2018-11-22",
+    "registrationDate" : "2018-11-22",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30072506,
+    "postingDate" : "2018-11-15",
+    "registrationDate" : "2018-11-15",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30074382,
+    "postingDate" : "2018-11-14",
+    "registrationDate" : "2018-11-15",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30073802,
+    "postingDate" : "2018-11-05",
+    "registrationDate" : "2018-11-07",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30073777,
+    "postingDate" : "2018-11-04",
+    "registrationDate" : "2018-11-07",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30073821,
+    "postingDate" : "2018-11-05",
+    "registrationDate" : "2018-11-05",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30068116,
+    "postingDate" : "2018-07-22",
+    "registrationDate" : "2018-07-24",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30068040,
+    "postingDate" : "2018-07-20",
+    "registrationDate" : "2018-07-24",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  } ]
+}

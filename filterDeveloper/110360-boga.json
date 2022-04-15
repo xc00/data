@@ -1,0 +1,161 @@
+{
+  "id" : 110360,
+  "handle" : "boga",
+  "countHistoryTasks" : 22,
+  "historyTasks" : null,
+  "taskResult" : [ {
+    "id" : 30144273,
+    "postingDate" : "2020-10-01",
+    "registrationDate" : "2020-10-01",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30142920,
+    "postingDate" : "2020-09-21",
+    "registrationDate" : "2020-09-23",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30137719,
+    "postingDate" : "2020-08-19",
+    "registrationDate" : "2020-08-19",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30137252,
+    "postingDate" : "2020-08-15",
+    "registrationDate" : "2020-08-16",
+    "submissionDate" : "2020-08-20",
+    "placement" : 2,
+    "score" : 82.66667
+  }, {
+    "id" : 30131961,
+    "postingDate" : "2020-07-01",
+    "registrationDate" : "2020-07-02",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30130461,
+    "postingDate" : "2020-06-19",
+    "registrationDate" : "2020-06-19",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30127228,
+    "postingDate" : "2020-05-31",
+    "registrationDate" : "2020-06-01",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30126291,
+    "postingDate" : "2020-05-22",
+    "registrationDate" : "2020-05-22",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30125342,
+    "postingDate" : "2020-05-12",
+    "registrationDate" : "2020-05-19",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30125640,
+    "postingDate" : "2020-05-15",
+    "registrationDate" : "2020-05-17",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30125344,
+    "postingDate" : "2020-05-12",
+    "registrationDate" : "2020-05-12",
+    "submissionDate" : "2020-05-17",
+    "placement" : 3,
+    "score" : 91.225
+  }, {
+    "id" : 30124032,
+    "postingDate" : "2020-05-04",
+    "registrationDate" : "2020-05-04",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30122533,
+    "postingDate" : "2020-04-18",
+    "registrationDate" : "2020-04-18",
+    "submissionDate" : "2020-04-24",
+    "placement" : 3,
+    "score" : 98.0
+  }, {
+    "id" : 30122262,
+    "postingDate" : "2020-04-14",
+    "registrationDate" : "2020-04-15",
+    "submissionDate" : "2020-04-19",
+    "placement" : 3,
+    "score" : 95.33333
+  }, {
+    "id" : 30122235,
+    "postingDate" : "2020-04-14",
+    "registrationDate" : "2020-04-14",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30121896,
+    "postingDate" : "2020-04-08",
+    "registrationDate" : "2020-04-09",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30120920,
+    "postingDate" : "2020-03-26",
+    "registrationDate" : "2020-03-26",
+    "submissionDate" : "2020-03-29",
+    "placement" : 2,
+    "score" : 83.66667
+  }, {
+    "id" : 30116736,
+    "postingDate" : "2020-02-25",
+    "registrationDate" : "2020-02-25",
+    "submissionDate" : null,
+    "placement" : -1,
+    "score" : 0.0
+  }, {
+    "id" : 30116496,
+    "postingDate" : "2020-02-20",
+    "registrationDate" : "2020-02-21",
+    "submissionDate" : "2020-02-25",
+    "placement" : 4,
+    "score" : 89.16667
+  }, {
+    "id" : 30113503,
+    "postingDate" : "2020-01-25",
+    "registrationDate" : "2020-01-26",
+    "submissionDate" : "2020-01-30",
+    "placement" : 2,
+    "score" : 77.33333
+  }, {
+    "id" : 30113334,
+    "postingDate" : "2020-01-23",
+    "registrationDate" : "2020-01-23",
+    "submissionDate" : "2020-01-27",
+    "placement" : 3,
+    "score" : 85.5
+  }, {
+    "id" : 30112931,
+    "postingDate" : "2020-01-18",
+    "registrationDate" : "2020-01-19",
+    "submissionDate" : "2020-01-23",
+    "placement" : 1,
+    "score" : 67.33333
+  } ]
+}
